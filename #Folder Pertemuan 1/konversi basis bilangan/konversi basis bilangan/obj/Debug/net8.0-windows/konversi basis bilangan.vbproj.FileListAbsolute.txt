@@ -1,0 +1,16 @@
+D:\pemograman desktop\konversi basis bilangan\konversi basis bilangan\bin\Debug\net8.0-windows\konversi basis bilangan.exe
+D:\pemograman desktop\konversi basis bilangan\konversi basis bilangan\bin\Debug\net8.0-windows\konversi basis bilangan.deps.json
+D:\pemograman desktop\konversi basis bilangan\konversi basis bilangan\bin\Debug\net8.0-windows\konversi basis bilangan.runtimeconfig.json
+D:\pemograman desktop\konversi basis bilangan\konversi basis bilangan\bin\Debug\net8.0-windows\konversi basis bilangan.dll
+D:\pemograman desktop\konversi basis bilangan\konversi basis bilangan\bin\Debug\net8.0-windows\konversi basis bilangan.pdb
+D:\pemograman desktop\konversi basis bilangan\konversi basis bilangan\obj\Debug\net8.0-windows\konversi_basis_bilangan.Form1.resources
+D:\pemograman desktop\konversi basis bilangan\konversi basis bilangan\obj\Debug\net8.0-windows\konversi basis bilangan.vbproj.GenerateResource.cache
+D:\pemograman desktop\konversi basis bilangan\konversi basis bilangan\obj\Debug\net8.0-windows\konversi basis bilangan.GeneratedMSBuildEditorConfig.editorconfig
+D:\pemograman desktop\konversi basis bilangan\konversi basis bilangan\obj\Debug\net8.0-windows\konversi basis bilangan.AssemblyInfoInputs.cache
+D:\pemograman desktop\konversi basis bilangan\konversi basis bilangan\obj\Debug\net8.0-windows\konversi basis bilangan.AssemblyInfo.vb
+D:\pemograman desktop\konversi basis bilangan\konversi basis bilangan\obj\Debug\net8.0-windows\konversi basis bilangan.vbproj.CoreCompileInputs.cache
+D:\pemograman desktop\konversi basis bilangan\konversi basis bilangan\obj\Debug\net8.0-windows\konversi basis bilangan.dll
+D:\pemograman desktop\konversi basis bilangan\konversi basis bilangan\obj\Debug\net8.0-windows\refint\konversi basis bilangan.dll
+D:\pemograman desktop\konversi basis bilangan\konversi basis bilangan\obj\Debug\net8.0-windows\konversi basis bilangan.pdb
+D:\pemograman desktop\konversi basis bilangan\konversi basis bilangan\obj\Debug\net8.0-windows\konversi basis bilangan.genruntimeconfig.cache
+D:\pemograman desktop\konversi basis bilangan\konversi basis bilangan\obj\Debug\net8.0-windows\ref\konversi basis bilangan.dll

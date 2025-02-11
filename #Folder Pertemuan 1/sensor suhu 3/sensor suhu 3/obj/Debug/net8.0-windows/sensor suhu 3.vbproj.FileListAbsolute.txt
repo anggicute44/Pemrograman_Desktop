@@ -1,0 +1,16 @@
+D:\pemograman desktop\sensor suhu 3\sensor suhu 3\bin\Debug\net8.0-windows\sensor suhu 3.exe
+D:\pemograman desktop\sensor suhu 3\sensor suhu 3\bin\Debug\net8.0-windows\sensor suhu 3.deps.json
+D:\pemograman desktop\sensor suhu 3\sensor suhu 3\bin\Debug\net8.0-windows\sensor suhu 3.runtimeconfig.json
+D:\pemograman desktop\sensor suhu 3\sensor suhu 3\bin\Debug\net8.0-windows\sensor suhu 3.dll
+D:\pemograman desktop\sensor suhu 3\sensor suhu 3\bin\Debug\net8.0-windows\sensor suhu 3.pdb
+D:\pemograman desktop\sensor suhu 3\sensor suhu 3\obj\Debug\net8.0-windows\sensor_suhu_3.Form1.resources
+D:\pemograman desktop\sensor suhu 3\sensor suhu 3\obj\Debug\net8.0-windows\sensor suhu 3.vbproj.GenerateResource.cache
+D:\pemograman desktop\sensor suhu 3\sensor suhu 3\obj\Debug\net8.0-windows\sensor suhu 3.GeneratedMSBuildEditorConfig.editorconfig
+D:\pemograman desktop\sensor suhu 3\sensor suhu 3\obj\Debug\net8.0-windows\sensor suhu 3.AssemblyInfoInputs.cache
+D:\pemograman desktop\sensor suhu 3\sensor suhu 3\obj\Debug\net8.0-windows\sensor suhu 3.AssemblyInfo.vb
+D:\pemograman desktop\sensor suhu 3\sensor suhu 3\obj\Debug\net8.0-windows\sensor suhu 3.vbproj.CoreCompileInputs.cache
+D:\pemograman desktop\sensor suhu 3\sensor suhu 3\obj\Debug\net8.0-windows\sensor suhu 3.dll
+D:\pemograman desktop\sensor suhu 3\sensor suhu 3\obj\Debug\net8.0-windows\refint\sensor suhu 3.dll
+D:\pemograman desktop\sensor suhu 3\sensor suhu 3\obj\Debug\net8.0-windows\sensor suhu 3.pdb
+D:\pemograman desktop\sensor suhu 3\sensor suhu 3\obj\Debug\net8.0-windows\sensor suhu 3.genruntimeconfig.cache
+D:\pemograman desktop\sensor suhu 3\sensor suhu 3\obj\Debug\net8.0-windows\ref\sensor suhu 3.dll

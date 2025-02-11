@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\pemograman desktop\\Kalkulator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B057AE35-3224-4361-8A31-8533E14380E8}|Kalkulator\\Kalkulator.vbproj|d:\\pemograman desktop\\kalkulator\\kalkulator\\calculator.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{B057AE35-3224-4361-8A31-8533E14380E8}|Kalkulator\\Kalkulator.vbproj|solutionrelative:kalkulator\\calculator.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B057AE35-3224-4361-8A31-8533E14380E8}|Kalkulator\\Kalkulator.vbproj|d:\\pemograman desktop\\kalkulator\\kalkulator\\calculator.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B057AE35-3224-4361-8A31-8533E14380E8}|Kalkulator\\Kalkulator.vbproj|solutionrelative:kalkulator\\calculator.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B057AE35-3224-4361-8A31-8533E14380E8}|Kalkulator\\Kalkulator.vbproj|d:\\pemograman desktop\\kalkulator\\kalkulator\\my project\\application.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B057AE35-3224-4361-8A31-8533E14380E8}|Kalkulator\\Kalkulator.vbproj|solutionrelative:kalkulator\\my project\\application.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Application.Designer.vb",
+              "DocumentMoniker": "D:\\pemograman desktop\\Kalkulator\\Kalkulator\\My Project\\Application.Designer.vb",
+              "RelativeDocumentMoniker": "Kalkulator\\My Project\\Application.Designer.vb",
+              "ToolTip": "D:\\pemograman desktop\\Kalkulator\\Kalkulator\\My Project\\Application.Designer.vb",
+              "RelativeToolTip": "Kalkulator\\My Project\\Application.Designer.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-02-05T13:16:30.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "calculator.vb",
+              "DocumentMoniker": "D:\\pemograman desktop\\Kalkulator\\Kalkulator\\calculator.vb",
+              "RelativeDocumentMoniker": "Kalkulator\\calculator.vb",
+              "ToolTip": "D:\\pemograman desktop\\Kalkulator\\Kalkulator\\calculator.vb",
+              "RelativeToolTip": "Kalkulator\\calculator.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-02-05T12:17:14.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "calculator.vb [Design]",
+              "DocumentMoniker": "D:\\pemograman desktop\\Kalkulator\\Kalkulator\\calculator.vb",
+              "RelativeDocumentMoniker": "Kalkulator\\calculator.vb",
+              "ToolTip": "D:\\pemograman desktop\\Kalkulator\\Kalkulator\\calculator.vb [Design]",
+              "RelativeToolTip": "Kalkulator\\calculator.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-02-05T11:57:19.155Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

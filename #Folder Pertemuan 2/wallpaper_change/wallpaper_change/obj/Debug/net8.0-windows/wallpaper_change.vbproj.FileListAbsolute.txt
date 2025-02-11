@@ -1,0 +1,16 @@
+D:\pemograman desktop\wallpaper_change\wallpaper_change\bin\Debug\net8.0-windows\wallpaper_change.exe
+D:\pemograman desktop\wallpaper_change\wallpaper_change\bin\Debug\net8.0-windows\wallpaper_change.deps.json
+D:\pemograman desktop\wallpaper_change\wallpaper_change\bin\Debug\net8.0-windows\wallpaper_change.runtimeconfig.json
+D:\pemograman desktop\wallpaper_change\wallpaper_change\bin\Debug\net8.0-windows\wallpaper_change.dll
+D:\pemograman desktop\wallpaper_change\wallpaper_change\bin\Debug\net8.0-windows\wallpaper_change.pdb
+D:\pemograman desktop\wallpaper_change\wallpaper_change\obj\Debug\net8.0-windows\wallpaper_change.Form1.resources
+D:\pemograman desktop\wallpaper_change\wallpaper_change\obj\Debug\net8.0-windows\wallpaper_change.vbproj.GenerateResource.cache
+D:\pemograman desktop\wallpaper_change\wallpaper_change\obj\Debug\net8.0-windows\wallpaper_change.GeneratedMSBuildEditorConfig.editorconfig
+D:\pemograman desktop\wallpaper_change\wallpaper_change\obj\Debug\net8.0-windows\wallpaper_change.AssemblyInfoInputs.cache
+D:\pemograman desktop\wallpaper_change\wallpaper_change\obj\Debug\net8.0-windows\wallpaper_change.AssemblyInfo.vb
+D:\pemograman desktop\wallpaper_change\wallpaper_change\obj\Debug\net8.0-windows\wallpaper_change.vbproj.CoreCompileInputs.cache
+D:\pemograman desktop\wallpaper_change\wallpaper_change\obj\Debug\net8.0-windows\wallpaper_change.dll
+D:\pemograman desktop\wallpaper_change\wallpaper_change\obj\Debug\net8.0-windows\refint\wallpaper_change.dll
+D:\pemograman desktop\wallpaper_change\wallpaper_change\obj\Debug\net8.0-windows\wallpaper_change.pdb
+D:\pemograman desktop\wallpaper_change\wallpaper_change\obj\Debug\net8.0-windows\wallpaper_change.genruntimeconfig.cache
+D:\pemograman desktop\wallpaper_change\wallpaper_change\obj\Debug\net8.0-windows\ref\wallpaper_change.dll

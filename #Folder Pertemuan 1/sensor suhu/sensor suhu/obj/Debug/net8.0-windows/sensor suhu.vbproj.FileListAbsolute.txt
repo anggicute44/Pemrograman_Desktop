@@ -1,0 +1,16 @@
+D:\pemograman desktop\sensor suhu\sensor suhu\bin\Debug\net8.0-windows\sensor suhu.exe
+D:\pemograman desktop\sensor suhu\sensor suhu\bin\Debug\net8.0-windows\sensor suhu.deps.json
+D:\pemograman desktop\sensor suhu\sensor suhu\bin\Debug\net8.0-windows\sensor suhu.runtimeconfig.json
+D:\pemograman desktop\sensor suhu\sensor suhu\bin\Debug\net8.0-windows\sensor suhu.dll
+D:\pemograman desktop\sensor suhu\sensor suhu\bin\Debug\net8.0-windows\sensor suhu.pdb
+D:\pemograman desktop\sensor suhu\sensor suhu\obj\Debug\net8.0-windows\sensor_suhu.Form1.resources
+D:\pemograman desktop\sensor suhu\sensor suhu\obj\Debug\net8.0-windows\sensor suhu.vbproj.GenerateResource.cache
+D:\pemograman desktop\sensor suhu\sensor suhu\obj\Debug\net8.0-windows\sensor suhu.GeneratedMSBuildEditorConfig.editorconfig
+D:\pemograman desktop\sensor suhu\sensor suhu\obj\Debug\net8.0-windows\sensor suhu.AssemblyInfoInputs.cache
+D:\pemograman desktop\sensor suhu\sensor suhu\obj\Debug\net8.0-windows\sensor suhu.AssemblyInfo.vb
+D:\pemograman desktop\sensor suhu\sensor suhu\obj\Debug\net8.0-windows\sensor suhu.vbproj.CoreCompileInputs.cache
+D:\pemograman desktop\sensor suhu\sensor suhu\obj\Debug\net8.0-windows\sensor suhu.dll
+D:\pemograman desktop\sensor suhu\sensor suhu\obj\Debug\net8.0-windows\refint\sensor suhu.dll
+D:\pemograman desktop\sensor suhu\sensor suhu\obj\Debug\net8.0-windows\sensor suhu.pdb
+D:\pemograman desktop\sensor suhu\sensor suhu\obj\Debug\net8.0-windows\sensor suhu.genruntimeconfig.cache
+D:\pemograman desktop\sensor suhu\sensor suhu\obj\Debug\net8.0-windows\ref\sensor suhu.dll
