@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "formresto", "formresto\formresto.vbproj", "{FF04E38C-A194-480E-9D19-921E8E2B737E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8292F7A7-A155-4198-8594-877903CF2DD9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF04E38C-A194-480E-9D19-921E8E2B737E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF04E38C-A194-480E-9D19-921E8E2B737E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF04E38C-A194-480E-9D19-921E8E2B737E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF04E38C-A194-480E-9D19-921E8E2B737E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
