@@ -1,0 +1,16 @@
+D:\pemograman desktop\Image Viewer\Image Viewer\bin\Debug\net8.0-windows\Image Viewer.exe
+D:\pemograman desktop\Image Viewer\Image Viewer\bin\Debug\net8.0-windows\Image Viewer.deps.json
+D:\pemograman desktop\Image Viewer\Image Viewer\bin\Debug\net8.0-windows\Image Viewer.runtimeconfig.json
+D:\pemograman desktop\Image Viewer\Image Viewer\bin\Debug\net8.0-windows\Image Viewer.dll
+D:\pemograman desktop\Image Viewer\Image Viewer\bin\Debug\net8.0-windows\Image Viewer.pdb
+D:\pemograman desktop\Image Viewer\Image Viewer\obj\Debug\net8.0-windows\Image_Viewer.Form1.resources
+D:\pemograman desktop\Image Viewer\Image Viewer\obj\Debug\net8.0-windows\Image Viewer.vbproj.GenerateResource.cache
+D:\pemograman desktop\Image Viewer\Image Viewer\obj\Debug\net8.0-windows\Image Viewer.GeneratedMSBuildEditorConfig.editorconfig
+D:\pemograman desktop\Image Viewer\Image Viewer\obj\Debug\net8.0-windows\Image Viewer.AssemblyInfoInputs.cache
+D:\pemograman desktop\Image Viewer\Image Viewer\obj\Debug\net8.0-windows\Image Viewer.AssemblyInfo.vb
+D:\pemograman desktop\Image Viewer\Image Viewer\obj\Debug\net8.0-windows\Image Viewer.vbproj.CoreCompileInputs.cache
+D:\pemograman desktop\Image Viewer\Image Viewer\obj\Debug\net8.0-windows\Image Viewer.dll
+D:\pemograman desktop\Image Viewer\Image Viewer\obj\Debug\net8.0-windows\refint\Image Viewer.dll
+D:\pemograman desktop\Image Viewer\Image Viewer\obj\Debug\net8.0-windows\Image Viewer.pdb
+D:\pemograman desktop\Image Viewer\Image Viewer\obj\Debug\net8.0-windows\Image Viewer.genruntimeconfig.cache
+D:\pemograman desktop\Image Viewer\Image Viewer\obj\Debug\net8.0-windows\ref\Image Viewer.dll

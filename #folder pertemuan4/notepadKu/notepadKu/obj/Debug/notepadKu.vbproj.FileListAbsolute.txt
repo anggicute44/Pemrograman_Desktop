@@ -1,0 +1,25 @@
+D:\Semester 6\Pemrograman Dekstop\Mingguan\Pertemuan4\notepadKu\notepadKu\bin\Debug\notepadKu.exe.config
+D:\Semester 6\Pemrograman Dekstop\Mingguan\Pertemuan4\notepadKu\notepadKu\bin\Debug\notepadKu.exe
+D:\Semester 6\Pemrograman Dekstop\Mingguan\Pertemuan4\notepadKu\notepadKu\bin\Debug\notepadKu.pdb
+D:\Semester 6\Pemrograman Dekstop\Mingguan\Pertemuan4\notepadKu\notepadKu\bin\Debug\notepadKu.xml
+D:\Semester 6\Pemrograman Dekstop\Mingguan\Pertemuan4\notepadKu\notepadKu\obj\Debug\notepadKu.vbproj.AssemblyReference.cache
+D:\Semester 6\Pemrograman Dekstop\Mingguan\Pertemuan4\notepadKu\notepadKu\obj\Debug\notepadKu.vbproj.SuggestedBindingRedirects.cache
+D:\Semester 6\Pemrograman Dekstop\Mingguan\Pertemuan4\notepadKu\notepadKu\obj\Debug\notepadKu.Form1.resources
+D:\Semester 6\Pemrograman Dekstop\Mingguan\Pertemuan4\notepadKu\notepadKu\obj\Debug\notepadKu.Resources.resources
+D:\Semester 6\Pemrograman Dekstop\Mingguan\Pertemuan4\notepadKu\notepadKu\obj\Debug\notepadKu.vbproj.GenerateResource.cache
+D:\Semester 6\Pemrograman Dekstop\Mingguan\Pertemuan4\notepadKu\notepadKu\obj\Debug\notepadKu.vbproj.CoreCompileInputs.cache
+D:\Semester 6\Pemrograman Dekstop\Mingguan\Pertemuan4\notepadKu\notepadKu\obj\Debug\notepadKu.exe
+D:\Semester 6\Pemrograman Dekstop\Mingguan\Pertemuan4\notepadKu\notepadKu\obj\Debug\notepadKu.xml
+D:\Semester 6\Pemrograman Dekstop\Mingguan\Pertemuan4\notepadKu\notepadKu\obj\Debug\notepadKu.pdb
+C:\Users\Asus\Documents\notepadKu\notepadKu\bin\Debug\notepadKu.exe.config
+C:\Users\Asus\Documents\notepadKu\notepadKu\bin\Debug\notepadKu.exe
+C:\Users\Asus\Documents\notepadKu\notepadKu\bin\Debug\notepadKu.pdb
+C:\Users\Asus\Documents\notepadKu\notepadKu\bin\Debug\notepadKu.xml
+C:\Users\Asus\Documents\notepadKu\notepadKu\obj\Debug\notepadKu.vbproj.AssemblyReference.cache
+C:\Users\Asus\Documents\notepadKu\notepadKu\obj\Debug\notepadKu.Form1.resources
+C:\Users\Asus\Documents\notepadKu\notepadKu\obj\Debug\notepadKu.Resources.resources
+C:\Users\Asus\Documents\notepadKu\notepadKu\obj\Debug\notepadKu.vbproj.GenerateResource.cache
+C:\Users\Asus\Documents\notepadKu\notepadKu\obj\Debug\notepadKu.vbproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\notepadKu\notepadKu\obj\Debug\notepadKu.exe
+C:\Users\Asus\Documents\notepadKu\notepadKu\obj\Debug\notepadKu.xml
+C:\Users\Asus\Documents\notepadKu\notepadKu\obj\Debug\notepadKu.pdb
