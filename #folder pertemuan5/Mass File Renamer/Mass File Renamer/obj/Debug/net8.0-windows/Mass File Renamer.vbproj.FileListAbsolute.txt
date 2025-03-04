@@ -1,0 +1,16 @@
+D:\pemograman desktop\Mass File Renamer\Mass File Renamer\bin\Debug\net8.0-windows\Mass File Renamer.exe
+D:\pemograman desktop\Mass File Renamer\Mass File Renamer\bin\Debug\net8.0-windows\Mass File Renamer.deps.json
+D:\pemograman desktop\Mass File Renamer\Mass File Renamer\bin\Debug\net8.0-windows\Mass File Renamer.runtimeconfig.json
+D:\pemograman desktop\Mass File Renamer\Mass File Renamer\bin\Debug\net8.0-windows\Mass File Renamer.dll
+D:\pemograman desktop\Mass File Renamer\Mass File Renamer\bin\Debug\net8.0-windows\Mass File Renamer.pdb
+D:\pemograman desktop\Mass File Renamer\Mass File Renamer\obj\Debug\net8.0-windows\Mass_File_Renamer.Form1.resources
+D:\pemograman desktop\Mass File Renamer\Mass File Renamer\obj\Debug\net8.0-windows\Mass File Renamer.vbproj.GenerateResource.cache
+D:\pemograman desktop\Mass File Renamer\Mass File Renamer\obj\Debug\net8.0-windows\Mass File Renamer.GeneratedMSBuildEditorConfig.editorconfig
+D:\pemograman desktop\Mass File Renamer\Mass File Renamer\obj\Debug\net8.0-windows\Mass File Renamer.AssemblyInfoInputs.cache
+D:\pemograman desktop\Mass File Renamer\Mass File Renamer\obj\Debug\net8.0-windows\Mass File Renamer.AssemblyInfo.vb
+D:\pemograman desktop\Mass File Renamer\Mass File Renamer\obj\Debug\net8.0-windows\Mass File Renamer.vbproj.CoreCompileInputs.cache
+D:\pemograman desktop\Mass File Renamer\Mass File Renamer\obj\Debug\net8.0-windows\Mass File Renamer.dll
+D:\pemograman desktop\Mass File Renamer\Mass File Renamer\obj\Debug\net8.0-windows\refint\Mass File Renamer.dll
+D:\pemograman desktop\Mass File Renamer\Mass File Renamer\obj\Debug\net8.0-windows\Mass File Renamer.pdb
+D:\pemograman desktop\Mass File Renamer\Mass File Renamer\obj\Debug\net8.0-windows\Mass File Renamer.genruntimeconfig.cache
+D:\pemograman desktop\Mass File Renamer\Mass File Renamer\obj\Debug\net8.0-windows\ref\Mass File Renamer.dll

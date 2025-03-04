@@ -1,0 +1,16 @@
+D:\pemograman desktop\File Finder\File Finder\bin\Debug\net8.0-windows\File Finder.exe
+D:\pemograman desktop\File Finder\File Finder\bin\Debug\net8.0-windows\File Finder.deps.json
+D:\pemograman desktop\File Finder\File Finder\bin\Debug\net8.0-windows\File Finder.runtimeconfig.json
+D:\pemograman desktop\File Finder\File Finder\bin\Debug\net8.0-windows\File Finder.dll
+D:\pemograman desktop\File Finder\File Finder\bin\Debug\net8.0-windows\File Finder.pdb
+D:\pemograman desktop\File Finder\File Finder\obj\Debug\net8.0-windows\File_Finder.Form1.resources
+D:\pemograman desktop\File Finder\File Finder\obj\Debug\net8.0-windows\File Finder.vbproj.GenerateResource.cache
+D:\pemograman desktop\File Finder\File Finder\obj\Debug\net8.0-windows\File Finder.GeneratedMSBuildEditorConfig.editorconfig
+D:\pemograman desktop\File Finder\File Finder\obj\Debug\net8.0-windows\File Finder.AssemblyInfoInputs.cache
+D:\pemograman desktop\File Finder\File Finder\obj\Debug\net8.0-windows\File Finder.AssemblyInfo.vb
+D:\pemograman desktop\File Finder\File Finder\obj\Debug\net8.0-windows\File Finder.vbproj.CoreCompileInputs.cache
+D:\pemograman desktop\File Finder\File Finder\obj\Debug\net8.0-windows\File Finder.dll
+D:\pemograman desktop\File Finder\File Finder\obj\Debug\net8.0-windows\refint\File Finder.dll
+D:\pemograman desktop\File Finder\File Finder\obj\Debug\net8.0-windows\File Finder.pdb
+D:\pemograman desktop\File Finder\File Finder\obj\Debug\net8.0-windows\File Finder.genruntimeconfig.cache
+D:\pemograman desktop\File Finder\File Finder\obj\Debug\net8.0-windows\ref\File Finder.dll
