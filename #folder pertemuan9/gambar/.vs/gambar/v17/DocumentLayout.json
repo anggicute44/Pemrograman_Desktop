@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\gambar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{549E1657-594B-4F96-9C3F-C3BED0EFCA3C}|gambar\\gambar.vbproj|d:\\gambar\\gambar\\frmhistogram.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{549E1657-594B-4F96-9C3F-C3BED0EFCA3C}|gambar\\gambar.vbproj|solutionrelative:gambar\\frmhistogram.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{549E1657-594B-4F96-9C3F-C3BED0EFCA3C}|gambar\\gambar.vbproj|d:\\gambar\\gambar\\frmhistogram.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{549E1657-594B-4F96-9C3F-C3BED0EFCA3C}|gambar\\gambar.vbproj|solutionrelative:gambar\\frmhistogram.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{549E1657-594B-4F96-9C3F-C3BED0EFCA3C}|gambar\\gambar.vbproj|d:\\gambar\\gambar\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{549E1657-594B-4F96-9C3F-C3BED0EFCA3C}|gambar\\gambar.vbproj|solutionrelative:gambar\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{549E1657-594B-4F96-9C3F-C3BED0EFCA3C}|gambar\\gambar.vbproj|d:\\gambar\\gambar\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{549E1657-594B-4F96-9C3F-C3BED0EFCA3C}|gambar\\gambar.vbproj|solutionrelative:gambar\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmHistogram.vb",
+              "DocumentMoniker": "D:\\gambar\\gambar\\FrmHistogram.vb",
+              "RelativeDocumentMoniker": "gambar\\FrmHistogram.vb",
+              "ToolTip": "D:\\gambar\\gambar\\FrmHistogram.vb",
+              "RelativeToolTip": "gambar\\FrmHistogram.vb",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-06T01:28:31.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmHistogram.vb [Design]",
+              "DocumentMoniker": "D:\\gambar\\gambar\\FrmHistogram.vb",
+              "RelativeDocumentMoniker": "gambar\\FrmHistogram.vb",
+              "ToolTip": "D:\\gambar\\gambar\\FrmHistogram.vb [Design]",
+              "RelativeToolTip": "gambar\\FrmHistogram.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-06T01:27:39.375Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "D:\\gambar\\gambar\\Form1.vb",
+              "RelativeDocumentMoniker": "gambar\\Form1.vb",
+              "ToolTip": "D:\\gambar\\gambar\\Form1.vb",
+              "RelativeToolTip": "gambar\\Form1.vb",
+              "ViewState": "AgIAAOAAAAAAAAAAAAAmwPMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-06T01:06:28.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "D:\\gambar\\gambar\\Form1.vb",
+              "RelativeDocumentMoniker": "gambar\\Form1.vb",
+              "ToolTip": "D:\\gambar\\gambar\\Form1.vb [Design]",
+              "RelativeToolTip": "gambar\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-06T01:05:00.251Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
