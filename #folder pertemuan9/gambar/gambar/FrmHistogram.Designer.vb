@@ -29,9 +29,9 @@ Partial Class FrmHistogram
         ' 
         ' PictureBox1
         ' 
-        PictureBox1.Location = New Point(39, 55)
+        PictureBox1.Location = New Point(-1, 1)
         PictureBox1.Name = "PictureBox1"
-        PictureBox1.Size = New Size(487, 336)
+        PictureBox1.Size = New Size(527, 390)
         PictureBox1.TabIndex = 0
         PictureBox1.TabStop = False
         ' 

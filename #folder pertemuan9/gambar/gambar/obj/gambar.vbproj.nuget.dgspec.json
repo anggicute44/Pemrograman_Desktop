@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\gambar\\gambar\\gambar.vbproj": {}
+    "D:\\progdesk\\Pemrograman_Desktop\\#folder pertemuan9\\gambar\\gambar\\gambar.vbproj": {}
   },
   "projects": {
-    "D:\\gambar\\gambar\\gambar.vbproj": {
+    "D:\\progdesk\\Pemrograman_Desktop\\#folder pertemuan9\\gambar\\gambar\\gambar.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\gambar\\gambar\\gambar.vbproj",
+        "projectUniqueName": "D:\\progdesk\\Pemrograman_Desktop\\#folder pertemuan9\\gambar\\gambar\\gambar.vbproj",
         "projectName": "gambar",
-        "projectPath": "D:\\gambar\\gambar\\gambar.vbproj",
+        "projectPath": "D:\\progdesk\\Pemrograman_Desktop\\#folder pertemuan9\\gambar\\gambar\\gambar.vbproj",
         "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "D:\\gambar\\gambar\\obj\\",
+        "outputPath": "D:\\progdesk\\Pemrograman_Desktop\\#folder pertemuan9\\gambar\\gambar\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

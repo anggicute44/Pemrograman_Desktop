@@ -44,17 +44,35 @@ Partial Class Form1
         FlipVertikalToolStripMenuItem = New ToolStripMenuItem()
         TajamkanRinganToolStripMenuItem = New ToolStripMenuItem()
         GaussianBlurToolStripMenuItem = New ToolStripMenuItem()
+        TugasToolStripMenuItem = New ToolStripMenuItem()
+        BorderToolStripMenuItem = New ToolStripMenuItem()
+        WatermarkToolStripMenuItem = New ToolStripMenuItem()
+        InversiWarnaToolStripMenuItem = New ToolStripMenuItem()
+        RonaMerahToolStripMenuItem = New ToolStripMenuItem()
+        RonaHijauToolStripMenuItem = New ToolStripMenuItem()
+        RonaBToolStripMenuItem = New ToolStripMenuItem()
+        RonaSpeisalToolStripMenuItem = New ToolStripMenuItem()
+        HistogramBalokToolStripMenuItem = New ToolStripMenuItem()
         PictureBox1 = New PictureBox()
         OpenFileDialog1 = New OpenFileDialog()
         SaveFileDialog1 = New SaveFileDialog()
+        trackBarRed = New TrackBar()
+        trackBarGreen = New TrackBar()
+        trackBarBlue = New TrackBar()
+        Label1 = New Label()
+        Label2 = New Label()
+        Label3 = New Label()
         MenuStrip1.SuspendLayout()
         CType(PictureBox1, ComponentModel.ISupportInitialize).BeginInit()
+        CType(trackBarRed, ComponentModel.ISupportInitialize).BeginInit()
+        CType(trackBarGreen, ComponentModel.ISupportInitialize).BeginInit()
+        CType(trackBarBlue, ComponentModel.ISupportInitialize).BeginInit()
         SuspendLayout()
         ' 
         ' MenuStrip1
         ' 
         MenuStrip1.ImageScalingSize = New Size(24, 24)
-        MenuStrip1.Items.AddRange(New ToolStripItem() {FileToolStripMenuItem, HistogramToolStripMenuItem, EfekToolStripMenuItem})
+        MenuStrip1.Items.AddRange(New ToolStripItem() {FileToolStripMenuItem, HistogramToolStripMenuItem, EfekToolStripMenuItem, TugasToolStripMenuItem})
         MenuStrip1.Location = New Point(0, 0)
         MenuStrip1.Name = "MenuStrip1"
         MenuStrip1.Size = New Size(800, 33)
@@ -71,25 +89,25 @@ Partial Class Form1
         ' BukaToolStripMenuItem
         ' 
         BukaToolStripMenuItem.Name = "BukaToolStripMenuItem"
-        BukaToolStripMenuItem.Size = New Size(270, 34)
+        BukaToolStripMenuItem.Size = New Size(178, 34)
         BukaToolStripMenuItem.Text = "buka"
         ' 
         ' SimpanToolStripMenuItem
         ' 
         SimpanToolStripMenuItem.Name = "SimpanToolStripMenuItem"
-        SimpanToolStripMenuItem.Size = New Size(270, 34)
+        SimpanToolStripMenuItem.Size = New Size(178, 34)
         SimpanToolStripMenuItem.Text = "simpan"
         ' 
         ' PropertiToolStripMenuItem
         ' 
         PropertiToolStripMenuItem.Name = "PropertiToolStripMenuItem"
-        PropertiToolStripMenuItem.Size = New Size(270, 34)
+        PropertiToolStripMenuItem.Size = New Size(178, 34)
         PropertiToolStripMenuItem.Text = "properti"
         ' 
         ' KeluarToolStripMenuItem
         ' 
         KeluarToolStripMenuItem.Name = "KeluarToolStripMenuItem"
-        KeluarToolStripMenuItem.Size = New Size(270, 34)
+        KeluarToolStripMenuItem.Size = New Size(178, 34)
         KeluarToolStripMenuItem.Text = "keluar"
         ' 
         ' HistogramToolStripMenuItem
@@ -190,6 +208,61 @@ Partial Class Form1
         GaussianBlurToolStripMenuItem.Size = New Size(241, 34)
         GaussianBlurToolStripMenuItem.Text = "gaussian blur"
         ' 
+        ' TugasToolStripMenuItem
+        ' 
+        TugasToolStripMenuItem.DropDownItems.AddRange(New ToolStripItem() {BorderToolStripMenuItem, WatermarkToolStripMenuItem, InversiWarnaToolStripMenuItem, RonaMerahToolStripMenuItem, RonaHijauToolStripMenuItem, RonaBToolStripMenuItem, RonaSpeisalToolStripMenuItem, HistogramBalokToolStripMenuItem})
+        TugasToolStripMenuItem.Name = "TugasToolStripMenuItem"
+        TugasToolStripMenuItem.Size = New Size(90, 29)
+        TugasToolStripMenuItem.Text = "Tugas 3"
+        ' 
+        ' BorderToolStripMenuItem
+        ' 
+        BorderToolStripMenuItem.Name = "BorderToolStripMenuItem"
+        BorderToolStripMenuItem.Size = New Size(246, 34)
+        BorderToolStripMenuItem.Text = "Border"
+        ' 
+        ' WatermarkToolStripMenuItem
+        ' 
+        WatermarkToolStripMenuItem.Name = "WatermarkToolStripMenuItem"
+        WatermarkToolStripMenuItem.Size = New Size(246, 34)
+        WatermarkToolStripMenuItem.Text = "Watermark"
+        ' 
+        ' InversiWarnaToolStripMenuItem
+        ' 
+        InversiWarnaToolStripMenuItem.Name = "InversiWarnaToolStripMenuItem"
+        InversiWarnaToolStripMenuItem.Size = New Size(246, 34)
+        InversiWarnaToolStripMenuItem.Text = "inversi Warna"
+        ' 
+        ' RonaMerahToolStripMenuItem
+        ' 
+        RonaMerahToolStripMenuItem.Name = "RonaMerahToolStripMenuItem"
+        RonaMerahToolStripMenuItem.Size = New Size(246, 34)
+        RonaMerahToolStripMenuItem.Text = "Rona Merah"
+        ' 
+        ' RonaHijauToolStripMenuItem
+        ' 
+        RonaHijauToolStripMenuItem.Name = "RonaHijauToolStripMenuItem"
+        RonaHijauToolStripMenuItem.Size = New Size(246, 34)
+        RonaHijauToolStripMenuItem.Text = "Rona Hijau"
+        ' 
+        ' RonaBToolStripMenuItem
+        ' 
+        RonaBToolStripMenuItem.Name = "RonaBToolStripMenuItem"
+        RonaBToolStripMenuItem.Size = New Size(246, 34)
+        RonaBToolStripMenuItem.Text = "Rona Biru"
+        ' 
+        ' RonaSpeisalToolStripMenuItem
+        ' 
+        RonaSpeisalToolStripMenuItem.Name = "RonaSpeisalToolStripMenuItem"
+        RonaSpeisalToolStripMenuItem.Size = New Size(246, 34)
+        RonaSpeisalToolStripMenuItem.Text = "Rona speisal"
+        ' 
+        ' HistogramBalokToolStripMenuItem
+        ' 
+        HistogramBalokToolStripMenuItem.Name = "HistogramBalokToolStripMenuItem"
+        HistogramBalokToolStripMenuItem.Size = New Size(246, 34)
+        HistogramBalokToolStripMenuItem.Text = "Histogram Balok"
+        ' 
         ' PictureBox1
         ' 
         PictureBox1.Dock = DockStyle.Fill
@@ -203,11 +276,65 @@ Partial Class Form1
         ' 
         OpenFileDialog1.FileName = "OpenFileDialog1"
         ' 
+        ' trackBarRed
+        ' 
+        trackBarRed.Location = New Point(23, 312)
+        trackBarRed.Name = "trackBarRed"
+        trackBarRed.Size = New Size(239, 69)
+        trackBarRed.TabIndex = 2
+        ' 
+        ' trackBarGreen
+        ' 
+        trackBarGreen.Location = New Point(286, 312)
+        trackBarGreen.Name = "trackBarGreen"
+        trackBarGreen.Size = New Size(239, 69)
+        trackBarGreen.TabIndex = 3
+        ' 
+        ' trackBarBlue
+        ' 
+        trackBarBlue.Location = New Point(549, 312)
+        trackBarBlue.Name = "trackBarBlue"
+        trackBarBlue.Size = New Size(239, 69)
+        trackBarBlue.TabIndex = 4
+        ' 
+        ' Label1
+        ' 
+        Label1.AutoSize = True
+        Label1.Location = New Point(109, 382)
+        Label1.Name = "Label1"
+        Label1.Size = New Size(42, 25)
+        Label1.TabIndex = 5
+        Label1.Text = "Red"
+        ' 
+        ' Label2
+        ' 
+        Label2.AutoSize = True
+        Label2.Location = New Point(378, 382)
+        Label2.Name = "Label2"
+        Label2.Size = New Size(58, 25)
+        Label2.TabIndex = 6
+        Label2.Text = "Green"
+        ' 
+        ' Label3
+        ' 
+        Label3.AutoSize = True
+        Label3.Location = New Point(640, 384)
+        Label3.Name = "Label3"
+        Label3.Size = New Size(45, 25)
+        Label3.TabIndex = 7
+        Label3.Text = "Blue"
+        ' 
         ' Form1
         ' 
         AutoScaleDimensions = New SizeF(10F, 25F)
         AutoScaleMode = AutoScaleMode.Font
         ClientSize = New Size(800, 450)
+        Controls.Add(Label3)
+        Controls.Add(Label2)
+        Controls.Add(Label1)
+        Controls.Add(trackBarBlue)
+        Controls.Add(trackBarGreen)
+        Controls.Add(trackBarRed)
         Controls.Add(PictureBox1)
         Controls.Add(MenuStrip1)
         MainMenuStrip = MenuStrip1
@@ -216,6 +343,9 @@ Partial Class Form1
         MenuStrip1.ResumeLayout(False)
         MenuStrip1.PerformLayout()
         CType(PictureBox1, ComponentModel.ISupportInitialize).EndInit()
+        CType(trackBarRed, ComponentModel.ISupportInitialize).EndInit()
+        CType(trackBarGreen, ComponentModel.ISupportInitialize).EndInit()
+        CType(trackBarBlue, ComponentModel.ISupportInitialize).EndInit()
         ResumeLayout(False)
         PerformLayout()
     End Sub
@@ -245,5 +375,20 @@ Partial Class Form1
     Friend WithEvents FlipVertikalToolStripMenuItem As ToolStripMenuItem
     Friend WithEvents TajamkanRinganToolStripMenuItem As ToolStripMenuItem
     Friend WithEvents GaussianBlurToolStripMenuItem As ToolStripMenuItem
+    Friend WithEvents TugasToolStripMenuItem As ToolStripMenuItem
+    Friend WithEvents BorderToolStripMenuItem As ToolStripMenuItem
+    Friend WithEvents WatermarkToolStripMenuItem As ToolStripMenuItem
+    Friend WithEvents InversiWarnaToolStripMenuItem As ToolStripMenuItem
+    Friend WithEvents RonaMerahToolStripMenuItem As ToolStripMenuItem
+    Friend WithEvents RonaHijauToolStripMenuItem As ToolStripMenuItem
+    Friend WithEvents RonaBToolStripMenuItem As ToolStripMenuItem
+    Friend WithEvents RonaSpeisalToolStripMenuItem As ToolStripMenuItem
+    Friend WithEvents HistogramBalokToolStripMenuItem As ToolStripMenuItem
+    Friend WithEvents trackBarRed As TrackBar
+    Friend WithEvents trackBarGreen As TrackBar
+    Friend WithEvents trackBarBlue As TrackBar
+    Friend WithEvents Label1 As Label
+    Friend WithEvents Label2 As Label
+    Friend WithEvents Label3 As Label
 
 End Class

@@ -7,5 +7,14 @@
     <Compile Update="FrmHistogram.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="FrmHistogramBalok2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Frmopsiborder.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Frmwatermark.vb">
+      <SubType>Form</SubType>
+    </Compile>
   </ItemGroup>
 </Project>

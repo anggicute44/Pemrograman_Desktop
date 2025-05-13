@@ -1,22 +1,54 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\gambar\\",
+  "WorkspaceRootPath": "D:\\progdesk\\Pemrograman_Desktop\\#folder pertemuan9\\gambar\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{549E1657-594B-4F96-9C3F-C3BED0EFCA3C}|gambar\\gambar.vbproj|d:\\gambar\\gambar\\frmhistogram.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{549E1657-594B-4F96-9C3F-C3BED0EFCA3C}|gambar\\gambar.vbproj|solutionrelative:gambar\\frmhistogram.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+      "AbsoluteMoniker": "D:0:0:{549E1657-594B-4F96-9C3F-C3BED0EFCA3C}|gambar\\gambar.vbproj|d:\\progdesk\\pemrograman_desktop\\#folder pertemuan9\\gambar\\gambar\\frmwatermark.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{549E1657-594B-4F96-9C3F-C3BED0EFCA3C}|gambar\\gambar.vbproj|solutionrelative:gambar\\frmwatermark.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{549E1657-594B-4F96-9C3F-C3BED0EFCA3C}|gambar\\gambar.vbproj|d:\\gambar\\gambar\\frmhistogram.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "AbsoluteMoniker": "D:0:0:{549E1657-594B-4F96-9C3F-C3BED0EFCA3C}|gambar\\gambar.vbproj|d:\\progdesk\\pemrograman_desktop\\#folder pertemuan9\\gambar\\gambar\\frmwatermark.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{549E1657-594B-4F96-9C3F-C3BED0EFCA3C}|gambar\\gambar.vbproj|solutionrelative:gambar\\frmwatermark.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{549E1657-594B-4F96-9C3F-C3BED0EFCA3C}|gambar\\gambar.vbproj|d:\\progdesk\\pemrograman_desktop\\#folder pertemuan9\\gambar\\gambar\\frmopsiborder.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{549E1657-594B-4F96-9C3F-C3BED0EFCA3C}|gambar\\gambar.vbproj|solutionrelative:gambar\\frmopsiborder.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{549E1657-594B-4F96-9C3F-C3BED0EFCA3C}|gambar\\gambar.vbproj|d:\\progdesk\\pemrograman_desktop\\#folder pertemuan9\\gambar\\gambar\\frmhistogram.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
       "RelativeMoniker": "D:0:0:{549E1657-594B-4F96-9C3F-C3BED0EFCA3C}|gambar\\gambar.vbproj|solutionrelative:gambar\\frmhistogram.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{549E1657-594B-4F96-9C3F-C3BED0EFCA3C}|gambar\\gambar.vbproj|d:\\gambar\\gambar\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "AbsoluteMoniker": "D:0:0:{549E1657-594B-4F96-9C3F-C3BED0EFCA3C}|gambar\\gambar.vbproj|d:\\progdesk\\pemrograman_desktop\\#folder pertemuan9\\gambar\\gambar\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
       "RelativeMoniker": "D:0:0:{549E1657-594B-4F96-9C3F-C3BED0EFCA3C}|gambar\\gambar.vbproj|solutionrelative:gambar\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{549E1657-594B-4F96-9C3F-C3BED0EFCA3C}|gambar\\gambar.vbproj|d:\\gambar\\gambar\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "AbsoluteMoniker": "D:0:0:{549E1657-594B-4F96-9C3F-C3BED0EFCA3C}|gambar\\gambar.vbproj|d:\\progdesk\\pemrograman_desktop\\#folder pertemuan9\\gambar\\gambar\\frmhistogrambalok2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{549E1657-594B-4F96-9C3F-C3BED0EFCA3C}|gambar\\gambar.vbproj|solutionrelative:gambar\\frmhistogrambalok2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{549E1657-594B-4F96-9C3F-C3BED0EFCA3C}|gambar\\gambar.vbproj|d:\\progdesk\\pemrograman_desktop\\#folder pertemuan9\\gambar\\gambar\\frmhistogrambalok2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{549E1657-594B-4F96-9C3F-C3BED0EFCA3C}|gambar\\gambar.vbproj|solutionrelative:gambar\\frmhistogrambalok2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{549E1657-594B-4F96-9C3F-C3BED0EFCA3C}|gambar\\gambar.vbproj|d:\\progdesk\\pemrograman_desktop\\#folder pertemuan9\\gambar\\gambar\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{549E1657-594B-4F96-9C3F-C3BED0EFCA3C}|gambar\\gambar.vbproj|solutionrelative:gambar\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{549E1657-594B-4F96-9C3F-C3BED0EFCA3C}|gambar\\gambar.vbproj|d:\\progdesk\\pemrograman_desktop\\#folder pertemuan9\\gambar\\gambar\\frmopsiborder.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{549E1657-594B-4F96-9C3F-C3BED0EFCA3C}|gambar\\gambar.vbproj|solutionrelative:gambar\\frmopsiborder.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{549E1657-594B-4F96-9C3F-C3BED0EFCA3C}|gambar\\gambar.vbproj|d:\\progdesk\\pemrograman_desktop\\#folder pertemuan9\\gambar\\gambar\\frmopsiborder.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{549E1657-594B-4F96-9C3F-C3BED0EFCA3C}|gambar\\gambar.vbproj|solutionrelative:gambar\\frmopsiborder.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{549E1657-594B-4F96-9C3F-C3BED0EFCA3C}|gambar\\gambar.vbproj|d:\\progdesk\\pemrograman_desktop\\#folder pertemuan9\\gambar\\gambar\\frmopsiborder.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{549E1657-594B-4F96-9C3F-C3BED0EFCA3C}|gambar\\gambar.vbproj|solutionrelative:gambar\\frmopsiborder.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{549E1657-594B-4F96-9C3F-C3BED0EFCA3C}|gambar\\gambar.vbproj|d:\\progdesk\\pemrograman_desktop\\#folder pertemuan9\\gambar\\gambar\\frmhistogram.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{549E1657-594B-4F96-9C3F-C3BED0EFCA3C}|gambar\\gambar.vbproj|solutionrelative:gambar\\frmhistogram.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,28 +58,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FrmHistogram.vb",
-              "DocumentMoniker": "D:\\gambar\\gambar\\FrmHistogram.vb",
-              "RelativeDocumentMoniker": "gambar\\FrmHistogram.vb",
-              "ToolTip": "D:\\gambar\\gambar\\FrmHistogram.vb",
-              "RelativeToolTip": "gambar\\FrmHistogram.vb",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2025-05-06T01:28:31.795Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "FrmHistogram.vb [Design]",
-              "DocumentMoniker": "D:\\gambar\\gambar\\FrmHistogram.vb",
+              "DocumentMoniker": "D:\\progdesk\\Pemrograman_Desktop\\#folder pertemuan9\\gambar\\gambar\\FrmHistogram.vb",
               "RelativeDocumentMoniker": "gambar\\FrmHistogram.vb",
-              "ToolTip": "D:\\gambar\\gambar\\FrmHistogram.vb [Design]",
+              "ToolTip": "D:\\progdesk\\Pemrograman_Desktop\\#folder pertemuan9\\gambar\\gambar\\FrmHistogram.vb [Design]",
               "RelativeToolTip": "gambar\\FrmHistogram.vb [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2025-05-06T01:27:39.375Z",
@@ -55,27 +74,135 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
+              "Title": "Frmopsiborder.vb [Design]",
+              "DocumentMoniker": "D:\\progdesk\\Pemrograman_Desktop\\#folder pertemuan9\\gambar\\gambar\\Frmopsiborder.vb",
+              "RelativeDocumentMoniker": "gambar\\Frmopsiborder.vb",
+              "ToolTip": "D:\\progdesk\\Pemrograman_Desktop\\#folder pertemuan9\\gambar\\gambar\\Frmopsiborder.vb [Design]",
+              "RelativeToolTip": "gambar\\Frmopsiborder.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-07T06:25:34.919Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Frmwatermark.vb [Design]",
+              "DocumentMoniker": "D:\\progdesk\\Pemrograman_Desktop\\#folder pertemuan9\\gambar\\gambar\\Frmwatermark.vb",
+              "RelativeDocumentMoniker": "gambar\\Frmwatermark.vb",
+              "ToolTip": "D:\\progdesk\\Pemrograman_Desktop\\#folder pertemuan9\\gambar\\gambar\\Frmwatermark.vb [Design]",
+              "RelativeToolTip": "gambar\\Frmwatermark.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-07T06:22:07.298Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Frmwatermark.vb",
+              "DocumentMoniker": "D:\\progdesk\\Pemrograman_Desktop\\#folder pertemuan9\\gambar\\gambar\\Frmwatermark.vb",
+              "RelativeDocumentMoniker": "gambar\\Frmwatermark.vb",
+              "ToolTip": "D:\\progdesk\\Pemrograman_Desktop\\#folder pertemuan9\\gambar\\gambar\\Frmwatermark.vb",
+              "RelativeToolTip": "gambar\\Frmwatermark.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA5wBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-09T12:32:45.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmHistogramBalok2.vb",
+              "DocumentMoniker": "D:\\progdesk\\Pemrograman_Desktop\\#folder pertemuan9\\gambar\\gambar\\FrmHistogramBalok2.vb",
+              "RelativeDocumentMoniker": "gambar\\FrmHistogramBalok2.vb",
+              "ToolTip": "D:\\progdesk\\Pemrograman_Desktop\\#folder pertemuan9\\gambar\\gambar\\FrmHistogramBalok2.vb",
+              "RelativeToolTip": "gambar\\FrmHistogramBalok2.vb",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAuwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-09T15:55:34.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Form1.vb",
-              "DocumentMoniker": "D:\\gambar\\gambar\\Form1.vb",
+              "DocumentMoniker": "D:\\progdesk\\Pemrograman_Desktop\\#folder pertemuan9\\gambar\\gambar\\Form1.vb",
               "RelativeDocumentMoniker": "gambar\\Form1.vb",
-              "ToolTip": "D:\\gambar\\gambar\\Form1.vb",
+              "ToolTip": "D:\\progdesk\\Pemrograman_Desktop\\#folder pertemuan9\\gambar\\gambar\\Form1.vb",
               "RelativeToolTip": "gambar\\Form1.vb",
-              "ViewState": "AgIAAOAAAAAAAAAAAAAmwPMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAALcBAAAAAAAAAAAswOABAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2025-05-06T01:06:28.172Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Form1.vb [Design]",
-              "DocumentMoniker": "D:\\gambar\\gambar\\Form1.vb",
+              "DocumentMoniker": "D:\\progdesk\\Pemrograman_Desktop\\#folder pertemuan9\\gambar\\gambar\\Form1.vb",
               "RelativeDocumentMoniker": "gambar\\Form1.vb",
-              "ToolTip": "D:\\gambar\\gambar\\Form1.vb [Design]",
+              "ToolTip": "D:\\progdesk\\Pemrograman_Desktop\\#folder pertemuan9\\gambar\\gambar\\Form1.vb [Design]",
               "RelativeToolTip": "gambar\\Form1.vb [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2025-05-06T01:05:00.251Z",
               "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmHistogramBalok2.vb [Design]",
+              "DocumentMoniker": "D:\\progdesk\\Pemrograman_Desktop\\#folder pertemuan9\\gambar\\gambar\\FrmHistogramBalok2.vb",
+              "RelativeDocumentMoniker": "gambar\\FrmHistogramBalok2.vb",
+              "ToolTip": "D:\\progdesk\\Pemrograman_Desktop\\#folder pertemuan9\\gambar\\gambar\\FrmHistogramBalok2.vb [Design]",
+              "RelativeToolTip": "gambar\\FrmHistogramBalok2.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-07T06:30:17.439Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Frmopsiborder.vb",
+              "DocumentMoniker": "D:\\progdesk\\Pemrograman_Desktop\\#folder pertemuan9\\gambar\\gambar\\Frmopsiborder.vb",
+              "RelativeDocumentMoniker": "gambar\\Frmopsiborder.vb",
+              "ToolTip": "D:\\progdesk\\Pemrograman_Desktop\\#folder pertemuan9\\gambar\\gambar\\Frmopsiborder.vb",
+              "RelativeToolTip": "gambar\\Frmopsiborder.vb",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAowFcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-09T11:45:40.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Frmopsiborder.resx",
+              "DocumentMoniker": "D:\\progdesk\\Pemrograman_Desktop\\#folder pertemuan9\\gambar\\gambar\\Frmopsiborder.resx",
+              "RelativeDocumentMoniker": "gambar\\Frmopsiborder.resx",
+              "ToolTip": "D:\\progdesk\\Pemrograman_Desktop\\#folder pertemuan9\\gambar\\gambar\\Frmopsiborder.resx",
+              "RelativeToolTip": "gambar\\Frmopsiborder.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-05-09T11:44:57.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Frmopsiborder.Designer.vb",
+              "DocumentMoniker": "D:\\progdesk\\Pemrograman_Desktop\\#folder pertemuan9\\gambar\\gambar\\Frmopsiborder.Designer.vb",
+              "RelativeDocumentMoniker": "gambar\\Frmopsiborder.Designer.vb",
+              "ToolTip": "D:\\progdesk\\Pemrograman_Desktop\\#folder pertemuan9\\gambar\\gambar\\Frmopsiborder.Designer.vb",
+              "RelativeToolTip": "gambar\\Frmopsiborder.Designer.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-09T11:44:58.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FrmHistogram.vb",
+              "DocumentMoniker": "D:\\progdesk\\Pemrograman_Desktop\\#folder pertemuan9\\gambar\\gambar\\FrmHistogram.vb",
+              "RelativeDocumentMoniker": "gambar\\FrmHistogram.vb",
+              "ToolTip": "D:\\progdesk\\Pemrograman_Desktop\\#folder pertemuan9\\gambar\\gambar\\FrmHistogram.vb",
+              "RelativeToolTip": "gambar\\FrmHistogram.vb",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAuwBYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-06T01:28:31.795Z"
             }
           ]
         }
