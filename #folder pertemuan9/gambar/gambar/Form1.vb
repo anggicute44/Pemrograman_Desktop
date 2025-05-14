@@ -2,6 +2,7 @@
 Imports System.Runtime.InteropServices
 Imports System.Windows.Forms.VisualStyles.VisualStyleElement
 Imports System.Windows.Forms
+Imports System.Threading
 
 Public Class Form1
 
@@ -30,9 +31,9 @@ Public Class Form1
             PictureBox1.Image = originalImage
 
             ' Reset nilai trackbar
-            trackBarRed.Value = 0
-            trackBarGreen.Value = 0
-            trackBarBlue.Value = 0
+            trackBarRed.Value = 100
+            trackBarGreen.Value = 100
+            trackBarBlue.Value = 100
         End If
 
 
@@ -431,55 +432,26 @@ Public Class Form1
     End Sub
 
 
-    Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
-        ' Atur trackbar
-        For Each tb As System.Windows.Forms.TrackBar In {trackBarRed, trackBarBlue, trackBarGreen}
+    'Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+    '    For Each tb As System.Windows.Forms.TrackBar In {trackBarRed, trackBarGreen, trackBarBlue}
 
-            tb.Minimum = 0
-            tb.Maximum = 200
-            tb.Value = 100
-        Next
-    End Sub
-
+    '        tb.Minimum = 0
+    '        tb.Maximum = 100
+    '        tb.Value = 0 ' Posisi kiri: warna asli
+    '    Next
+    'End Sub
 
 
 
+    'Private Sub TrackBar_Scroll(sender As Object, e As EventArgs) Handles trackBarRed.Scroll, trackBarGreen.Scroll, trackBarBlue.Scroll
+    '    AdjustColorBalance()
+    'End Sub
 
-    Private Sub TrackBar_Scroll(sender As Object, e As EventArgs) Handles trackBarRed.Scroll, trackBarGreen.Scroll, trackBarBlue.Scroll
-        If originalImage Is Nothing Then Exit Sub
 
-        ' Membuat salinan gambar untuk diproses
-        Dim bmp As New Bitmap(originalImage)
 
-        ' Mengubah nilai RGB berdasarkan trackbar
-        Dim rOffset As Integer = trackBarRed.Value
-        Dim gOffset As Integer = trackBarGreen.Value
-        Dim bOffset As Integer = trackBarBlue.Value
 
-        ' Menggunakan LockBits untuk manipulasi piksel secara lebih efisien
-        Dim rect As New Rectangle(0, 0, bmp.Width, bmp.Height)
-        Dim bmpData As BitmapData = bmp.LockBits(rect, ImageLockMode.ReadWrite, PixelFormat.Format32bppArgb)
 
-        Dim ptr As IntPtr = bmpData.Scan0
-        Dim bytes As Integer = Math.Abs(bmpData.Stride) * bmp.Height
-        Dim rgbValues(bytes - 1) As Byte
-        Marshal.Copy(ptr, rgbValues, 0, bytes)
 
-        For i As Integer = 0 To rgbValues.Length - 1 Step 4
-            ' urutan byte: Blue, Green, Red, Alpha
-            rgbValues(i) = CByte(Math.Min(255, Math.Max(0, rgbValues(i) + bOffset)))       ' Blue
-            rgbValues(i + 1) = CByte(Math.Min(255, Math.Max(0, rgbValues(i + 1) + gOffset))) ' Green
-            rgbValues(i + 2) = CByte(Math.Min(255, Math.Max(0, rgbValues(i + 2) + rOffset))) ' Red
-            ' Alpha tidak diubah: rgbValues(i + 3)
-        Next
-
-        Marshal.Copy(rgbValues, 0, ptr, bytes)
-        bmp.UnlockBits(bmpData)
-
-        ' Menampilkan gambar yang sudah dimodifikasi
-        PictureBox1.Image = bmp
-
-    End Sub
 
 
     Private Function AdjustRGB(src As Bitmap, rFactor As Single, gFactor As Single, bFactor As Single) As Bitmap
@@ -499,9 +471,9 @@ Public Class Form1
             Dim g As Integer = CInt(rgbValues(i + 1) * gFactor)
             Dim r As Integer = CInt(rgbValues(i + 2) * rFactor)
 
-            rgbValues(i) = CByte(Math.Min(255, b))
-            rgbValues(i + 1) = CByte(Math.Min(255, g))
-            rgbValues(i + 2) = CByte(Math.Min(255, r))
+            rgbValues(i) = CByte(Math.Min(255, Math.Max(0, b)))
+            rgbValues(i + 1) = CByte(Math.Min(255, Math.Max(0, g)))
+            rgbValues(i + 2) = CByte(Math.Min(255, Math.Max(0, r)))
         Next
 
         Marshal.Copy(rgbValues, 0, dstData.Scan0, bytes)
@@ -511,6 +483,148 @@ Public Class Form1
         Return newBmp
     End Function
 
+    Private Sub AdjustColorBalance()
+        ' Membuat salinan gambar asli untuk dimodifikasi
+        Dim modifiedImage As Bitmap = New Bitmap(PictureBox1.Image)
+
+        ' Mengambil nilai trackbar (0-100)
+        Dim redPercentage As Integer = trackBarRed.Value
+        Dim greenPercentage As Integer = trackBarGreen.Value
+        Dim bluePercentage As Integer = trackBarBlue.Value
+
+        ' Menghitung faktor konversi untuk RGB (0-1)
+        Dim redFactor As Double = redPercentage / 100.0
+        Dim greenFactor As Double = greenPercentage / 100.0
+        Dim blueFactor As Double = bluePercentage / 100.0
+
+        ' Proses setiap pixel pada gambar
+        For x As Integer = 0 To modifiedImage.Width - 1
+            For y As Integer = 0 To modifiedImage.Height - 1
+                ' Mengambil pixel RGB
+                Dim pixelColor As Color = modifiedImage.GetPixel(x, y)
+
+                ' Menyesuaikan warna RGB berdasarkan faktor yang dihitung
+                Dim r As Integer = CInt(pixelColor.R * redFactor)
+                Dim g As Integer = CInt(pixelColor.G * greenFactor)
+                Dim b As Integer = CInt(pixelColor.B * blueFactor)
+
+                ' Memastikan nilai RGB berada dalam rentang 0-255
+                r = Math.Max(0, Math.Min(255, r))
+                g = Math.Max(0, Math.Min(255, g))
+                b = Math.Max(0, Math.Min(255, b))
+
+                ' Set pixel baru ke gambar yang dimodifikasi
+                modifiedImage.SetPixel(x, y, Color.FromArgb(r, g, b))
+            Next
+        Next
+
+        ' Menampilkan gambar yang dimodifikasi ke PictureBox
+        PictureBox1.Image = modifiedImage
+    End Sub
+    Private Sub UpdateRGB()
+        If originalImage Is Nothing Then Exit Sub
+
+        Dim bmp As New Bitmap(originalImage) ' selalu dari gambar asli
+
+        Dim rOffset = trackBarRed.Value
+        Dim gOffset = trackBarGreen.Value
+        Dim bOffset = trackBarBlue.Value
+
+        For y = 0 To bmp.Height - 1
+            For x = 0 To bmp.Width - 1
+                Dim c = originalImage.GetPixel(x, y)
+                Dim R = Clamp(c.R + rOffset)
+                Dim G = Clamp(c.G + gOffset)
+                Dim B = Clamp(c.B + bOffset)
+                bmp.SetPixel(x, y, Color.FromArgb(R, G, B))
+            Next
+        Next
+
+        PictureBox1.Image = bmp
+    End Sub
+
+    Private Function Clamp(value As Integer) As Integer
+        Return Math.Max(0, Math.Min(255, value))
+    End Function
+
+    Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+        ' Set nilai trackbar
+        trackBarRed.Minimum = 0
+        trackBarRed.Maximum = 100
+        trackBarRed.Value = 100
+
+        trackBarGreen.Minimum = 0
+        trackBarGreen.Maximum = 100
+        trackBarGreen.Value = 100
+
+        trackBarBlue.Minimum = 0
+        trackBarBlue.Maximum = 100
+        trackBarBlue.Value = 100
+    End Sub
+
+
+
+
+
+
+    ' Saat klik menu "Buka"
+    'Private Sub BukaToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles BukaToolStripMenuItem.Click
+    '        Dim openFileDialog As New OpenFileDialog()
+    '        openFileDialog.Filter = "Image Files|*.jpg;*.jpeg;*.png;*.bmp;*.gif"
+
+    '        If openFileDialog.ShowDialog() = DialogResult.OK Then
+    '            originalImage = New Bitmap(openFileDialog.FileName)
+    '            PictureBox1.Image = CType(originalImage.Clone(), Bitmap)
+
+    '            ' Reset trackbar ke 100
+    '            trackBarRed.Value = 100
+    '            trackBarGreen.Value = 100
+    '            trackBarBlue.Value = 100
+    '        End If
+    '    End Sub
+
+    ' Fungsi utama: Update warna berdasarkan trackbar RGB
+    Private Sub UpdateColorBalance()
+            If originalImage Is Nothing Then Exit Sub
+
+            Dim bmp As New Bitmap(originalImage.Width, originalImage.Height)
+
+            ' Ambil nilai dari trackbar dan ubah jadi rasio (0.0 - 1.0)
+            Dim redRatio As Double = trackBarRed.Value / 100.0
+            Dim greenRatio As Double = trackBarGreen.Value / 100.0
+            Dim blueRatio As Double = trackBarBlue.Value / 100.0
+
+            For y As Integer = 0 To originalImage.Height - 1
+                For x As Integer = 0 To originalImage.Width - 1
+                    Dim pixel As Color = originalImage.GetPixel(x, y)
+
+                    Dim r As Integer = CInt(pixel.R * redRatio)
+                    Dim g As Integer = CInt(pixel.G * greenRatio)
+                    Dim b As Integer = CInt(pixel.B * blueRatio)
+
+                    r = Math.Min(255, r)
+                    g = Math.Min(255, g)
+                    b = Math.Min(255, b)
+
+                    bmp.SetPixel(x, y, Color.FromArgb(r, g, b))
+                Next
+            Next
+
+            PictureBox1.Image = bmp
+        End Sub
+
+        ' Event scroll semua trackbar RGB
+        Private Sub trackBarRed_Scroll(sender As Object, e As EventArgs) Handles trackBarRed.Scroll
+            UpdateColorBalance()
+        End Sub
+
+        Private Sub trackBarGreen_Scroll(sender As Object, e As EventArgs) Handles trackBarGreen.Scroll
+            UpdateColorBalance()
+        End Sub
+
+        Private Sub trackBarBlue_Scroll(sender As Object, e As EventArgs) Handles trackBarBlue.Scroll
+            UpdateColorBalance()
+        End Sub
 
 
 

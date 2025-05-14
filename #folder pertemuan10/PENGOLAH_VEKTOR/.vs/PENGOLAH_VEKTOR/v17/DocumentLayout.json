@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\PENGOLAH_VEKTOR\\",
+  "WorkspaceRootPath": "D:\\Progdeks\\Pemrograman_Desktop\\#Folder pertemuan 10\\PENGOLAH_VEKTOR\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{632E2721-56E1-4292-9D5D-02C1DE57EA54}|PENGOLAH_VEKTOR\\PENGOLAH_VEKTOR.vbproj|d:\\pengolah_vektor\\pengolah_vektor\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{632E2721-56E1-4292-9D5D-02C1DE57EA54}|PENGOLAH_VEKTOR\\PENGOLAH_VEKTOR.vbproj|solutionrelative:pengolah_vektor\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+      "AbsoluteMoniker": "D:0:0:{632E2721-56E1-4292-9D5D-02C1DE57EA54}|PENGOLAH_VEKTOR\\PENGOLAH_VEKTOR.vbproj|d:\\progdeks\\pemrograman_desktop\\#folder pertemuan 10\\pengolah_vektor\\pengolah_vektor\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{632E2721-56E1-4292-9D5D-02C1DE57EA54}|PENGOLAH_VEKTOR\\PENGOLAH_VEKTOR.vbproj|solutionrelative:pengolah_vektor\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{632E2721-56E1-4292-9D5D-02C1DE57EA54}|PENGOLAH_VEKTOR\\PENGOLAH_VEKTOR.vbproj|d:\\pengolah_vektor\\pengolah_vektor\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{632E2721-56E1-4292-9D5D-02C1DE57EA54}|PENGOLAH_VEKTOR\\PENGOLAH_VEKTOR.vbproj|solutionrelative:pengolah_vektor\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+      "AbsoluteMoniker": "D:0:0:{632E2721-56E1-4292-9D5D-02C1DE57EA54}|PENGOLAH_VEKTOR\\PENGOLAH_VEKTOR.vbproj|d:\\progdeks\\pemrograman_desktop\\#folder pertemuan 10\\pengolah_vektor\\pengolah_vektor\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{632E2721-56E1-4292-9D5D-02C1DE57EA54}|PENGOLAH_VEKTOR\\PENGOLAH_VEKTOR.vbproj|solutionrelative:pengolah_vektor\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +18,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.vb",
-              "DocumentMoniker": "D:\\PENGOLAH_VEKTOR\\PENGOLAH_VEKTOR\\Form1.vb",
+              "DocumentMoniker": "D:\\Progdeks\\Pemrograman_Desktop\\#Folder pertemuan 10\\PENGOLAH_VEKTOR\\PENGOLAH_VEKTOR\\Form1.vb",
               "RelativeDocumentMoniker": "PENGOLAH_VEKTOR\\Form1.vb",
-              "ToolTip": "D:\\PENGOLAH_VEKTOR\\PENGOLAH_VEKTOR\\Form1.vb",
+              "ToolTip": "D:\\Progdeks\\Pemrograman_Desktop\\#Folder pertemuan 10\\PENGOLAH_VEKTOR\\PENGOLAH_VEKTOR\\Form1.vb",
               "RelativeToolTip": "PENGOLAH_VEKTOR\\Form1.vb",
-              "ViewState": "AgIAAAABAAAAAAAAAAAqwA8BAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAANoAAAAAAAAAAAAiwPAAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2025-05-13T01:00:15.463Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.vb [Design]",
-              "DocumentMoniker": "D:\\PENGOLAH_VEKTOR\\PENGOLAH_VEKTOR\\Form1.vb",
+              "DocumentMoniker": "D:\\Progdeks\\Pemrograman_Desktop\\#Folder pertemuan 10\\PENGOLAH_VEKTOR\\PENGOLAH_VEKTOR\\Form1.vb",
               "RelativeDocumentMoniker": "PENGOLAH_VEKTOR\\Form1.vb",
-              "ToolTip": "D:\\PENGOLAH_VEKTOR\\PENGOLAH_VEKTOR\\Form1.vb [Design]",
+              "ToolTip": "D:\\Progdeks\\Pemrograman_Desktop\\#Folder pertemuan 10\\PENGOLAH_VEKTOR\\PENGOLAH_VEKTOR\\Form1.vb [Design]",
               "RelativeToolTip": "PENGOLAH_VEKTOR\\Form1.vb [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2025-05-13T00:54:23.661Z",
               "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 804,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             }
           ]
         }

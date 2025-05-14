@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("PENGOLAH_VEKTOR"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a8b6be1ce760ffd270a6c9103710c09a6a35d88a"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("PENGOLAH_VEKTOR"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("PENGOLAH_VEKTOR"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _

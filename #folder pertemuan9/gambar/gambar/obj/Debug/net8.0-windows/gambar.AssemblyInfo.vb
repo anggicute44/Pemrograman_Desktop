@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("gambar"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ef6af2ded9a12c1242c339e239ee1f0a67c2c5b5"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a18ebe608bd8d8c45810111e9f4ea1c7d354082f"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("gambar"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("gambar"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _

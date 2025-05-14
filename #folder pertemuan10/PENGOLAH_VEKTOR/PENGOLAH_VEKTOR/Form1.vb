@@ -229,17 +229,24 @@ Public Class Form1
                     Using g As Graphics = Graphics.FromImage(PictureBox1.Image)
                         g.DrawEllipse(tepi, rect)
                     End Using
+
                 Case "kotakisi"
                     Dim rect As New Rectangle(CInt(pecah(2)), CInt(pecah(3)),
                    CInt(pecah(4)) - CInt(pecah(2)), CInt(pecah(5)) - CInt(pecah(3)))
                     Using g As Graphics = Graphics.FromImage(PictureBox1.Image)
                         g.FillRectangle(isian, rect)
                     End Using
+                    Using g As Graphics = Graphics.FromImage(PictureBox1.Image)
+                        g.DrawRectangle(tepi, rect)
+                    End Using
                 Case "elipsisi"
                     Dim rect As New Rectangle(CInt(pecah(2)), CInt(pecah(3)),
                    CInt(pecah(4)) - CInt(pecah(2)), CInt(pecah(5)) - CInt(pecah(3)))
                     Using g As Graphics = Graphics.FromImage(PictureBox1.Image)
                         g.FillEllipse(isian, rect)
+                    End Using
+                    Using g As Graphics = Graphics.FromImage(PictureBox1.Image)
+                        g.DrawEllipse(tepi, rect)
                     End Using
                 Case "tebaltepi"
                     tepi.Width = CInt(pecah(2))

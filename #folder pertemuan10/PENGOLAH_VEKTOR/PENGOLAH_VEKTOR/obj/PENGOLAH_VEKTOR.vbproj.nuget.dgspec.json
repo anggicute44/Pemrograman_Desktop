@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\PENGOLAH_VEKTOR\\PENGOLAH_VEKTOR\\PENGOLAH_VEKTOR.vbproj": {}
+    "D:\\Progdeks\\Pemrograman_Desktop\\#Folder pertemuan 10\\PENGOLAH_VEKTOR\\PENGOLAH_VEKTOR\\PENGOLAH_VEKTOR.vbproj": {}
   },
   "projects": {
-    "D:\\PENGOLAH_VEKTOR\\PENGOLAH_VEKTOR\\PENGOLAH_VEKTOR.vbproj": {
+    "D:\\Progdeks\\Pemrograman_Desktop\\#Folder pertemuan 10\\PENGOLAH_VEKTOR\\PENGOLAH_VEKTOR\\PENGOLAH_VEKTOR.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PENGOLAH_VEKTOR\\PENGOLAH_VEKTOR\\PENGOLAH_VEKTOR.vbproj",
+        "projectUniqueName": "D:\\Progdeks\\Pemrograman_Desktop\\#Folder pertemuan 10\\PENGOLAH_VEKTOR\\PENGOLAH_VEKTOR\\PENGOLAH_VEKTOR.vbproj",
         "projectName": "PENGOLAH_VEKTOR",
-        "projectPath": "D:\\PENGOLAH_VEKTOR\\PENGOLAH_VEKTOR\\PENGOLAH_VEKTOR.vbproj",
-        "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "D:\\PENGOLAH_VEKTOR\\PENGOLAH_VEKTOR\\obj\\",
+        "projectPath": "D:\\Progdeks\\Pemrograman_Desktop\\#Folder pertemuan 10\\PENGOLAH_VEKTOR\\PENGOLAH_VEKTOR\\PENGOLAH_VEKTOR.vbproj",
+        "packagesPath": "C:\\Users\\josep\\.nuget\\packages\\",
+        "outputPath": "D:\\Progdeks\\Pemrograman_Desktop\\#Folder pertemuan 10\\PENGOLAH_VEKTOR\\PENGOLAH_VEKTOR\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\josep\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -45,7 +44,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0-windows7.0": {
@@ -69,7 +68,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
